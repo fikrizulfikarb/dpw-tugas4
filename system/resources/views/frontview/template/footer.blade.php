@@ -1,7 +1,10 @@
 <footer>
         <div id="contact" class="footer">
             <div class="container">
-                <div class="row pdn-top-30">
+
+
+
+                    <div class="row pdn-top-30">
                     <div class="col-md-12 ">
                         <div class="footer-box">
                             <div class="headinga">
@@ -28,12 +31,16 @@
                             </div>
                         </div>
                     </div>
+    
                 </div>
+                
             </div>
-            <div class="copyright">
-                <div class="container">
-                    <p>© 2019 All Rights Reserved. Design By<a href="https://html.design/"> Free Html Templates</a></p>
-                </div>
-            </div>
+
+                <div class="copyright">
+                        <div class="container">
+                                <p>© 2019 All Rights Reserved. Design By<a href="https://html.design/"> Free Html Templates</a></p>
+                        </div>
+                 </div>
+
         </div>
-    </footer>
+</footer>
